@@ -10,7 +10,7 @@
 - 😹receba
 ### Tecnologias que uso:
 
-![Mauricio Duque GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcano-2730&theme=algolia&show_icons=true)
+![Matheus pacheco GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcano-2730&theme=algolia&show_icons=true)
 
 <hr/>
 
