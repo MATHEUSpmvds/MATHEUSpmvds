@@ -4,10 +4,7 @@
 - 😎 Matheus Pacheco Machado Vieira dos Santos
 - 😨sou estudante da escola sesi-332 Renato Kenji Nakaya
 - 🥶 sou estudante do senai-ds
-- 🤑 nao me faça perguntas bobas
-- 🤓só progresso e sem distrações
 - 🙊 nascido em 18/08/07
-- 😹receba
 ### Tecnologias que uso:
 
 ![Matheus pacheco GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcano-2730&theme=algolia&show_icons=true)
