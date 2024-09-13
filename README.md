@@ -8,3 +8,4 @@
 - 🤓só progresso e sem distrações
 - 🙊 nascido em 18/08/07
 - 😹receba
+ <img align="center" alt="C++-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
